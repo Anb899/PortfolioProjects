@@ -8,7 +8,7 @@
 
 ## Resume Selector
 
-- Trained and used Naïve Bayes Classifier to predict whether a given resume text is flagged or not. Our training data consist of 125 resumes with 33 flagged resumes and 92 non-flagged resumes. This project could be practically used to screen resumes in companies.
+- Trained and used Naïve Bayes Classifier to predict whether a given resume text is flagged or not. The training data consist of 125 resumes with 33 flagged resumes and 92 non-flagged resumes. This project could be practically used to screen resumes in companies.
 - Created a pipeline to remove stop-words, punctuation, and perform tokenization
 - Assessed the trained model performance
 
